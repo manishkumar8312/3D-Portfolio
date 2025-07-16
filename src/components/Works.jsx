@@ -1,4 +1,4 @@
-import Tilt from "react-tilt";
+import Tilt from "react-vanilla-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
